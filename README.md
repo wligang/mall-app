@@ -3,7 +3,7 @@
 # 这不是一个demo，而是一个真实的项目，项目已经上线是个以上版本，效果预览如下
 
 ![AUU商城](https://auu.oss-cn-hangzhou.aliyuncs.com/gh_auu_mini.jpg "Optional title")
-
+![AUU商城](https://github.com/wligang/mall-app/blob/master/static/imgs/gh_auu_mini.jpg "Optional title")
 
 
 
