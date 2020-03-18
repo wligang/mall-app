@@ -1,0 +1,12 @@
+{
+  "navigationBarTitleText": "AUU旗舰店",
+  "navigationBarBackgroundColor": "#f06c7a",
+  "backgroundTextStyle": "light",
+  "backgroundColorTop": "#f06c7a",
+  "navigationBarTextStyle": "white",
+  "enablePullDownRefresh": true,
+  "onReachBottomDistance": 50,
+  "usingComponents": {
+    "uni-notice-bar": "/components/uni-notice-bar/uni-notice-bar"
+  }
+}

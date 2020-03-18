@@ -1,0 +1,12 @@
+{
+  "navigationBarTitleText": "",
+  "navigationBarBackgroundColor": "#f06c7a",
+  "backgroundTextStyle": "light",
+  "navigationBarTextStyle": "white",
+  "onReachBottomDistance": 50,
+  "usingComponents": {
+    "uni-fab": "/components/uni-fab/uni-fab",
+    "uni-icons": "/components/uni-icons/uni-icons",
+    "hch-poster": "/components/hch-poster/hch-poster"
+  }
+}

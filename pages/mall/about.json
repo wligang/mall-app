@@ -1,0 +1,9 @@
+{
+  "navigationBarBackgroundColor": "#f8f8f8",
+  "navigationBarTitleText": "关于商城",
+  "backgroundColorTop": "#ffffff",
+  "backgroundColorBottom": "#f3f3f3",
+  "usingComponents": {
+    "uni-notice-bar": "/components/uni-notice-bar/uni-notice-bar"
+  }
+}

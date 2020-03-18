@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "订单进度",
+  "navigationBarBackgroundColor": "#f8f8f8",
+  "backgroundColorTop": "#f3f3f3",
+  "backgroundColorBottom": "#ffffff",
+  "usingComponents": {
+    "uni-steps": "/components/uni-steps/uni-steps"
+  }
+}

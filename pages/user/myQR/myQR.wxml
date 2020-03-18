@@ -1,0 +1,1 @@
+<view><view class="block"></view><view class="QR"><image src="{{qr.qr}}"></image></view><view class="title">{{''+(qr.title||"扫描二维码")+''}}</view><view data-event-opts="{{[['tap',[['printscreen',['$event']]]]]}}" hidden="{{!(showBtn)}}" class="btn" bindtap="__e">{{''+tis+''}}</view><view class="logo"><image mode="widthFix" src="{{qr.qrLogo}}"></image></view></view>
