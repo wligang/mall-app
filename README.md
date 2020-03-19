@@ -16,7 +16,19 @@
 
 
 
-
+## 附属项目后台管理
+![AUU商城后台管理](https://github.com/wligang/mall-app/blob/master/static/gitimgs/1.png "AUU商城后台管理")
+![AUU商城后台管理](https://github.com/wligang/mall-app/blob/master/static/gitimgs/2.png "AUU商城后台管理")
+![AUU商城后台管理](https://github.com/wligang/mall-app/blob/master/static/gitimgs/3.png "AUU商城后台管理")
+![AUU商城后台管理](https://github.com/wligang/mall-app/blob/master/static/gitimgs/4.png "AUU商城后台管理")
+![AUU商城后台管理](https://github.com/wligang/mall-app/blob/master/static/gitimgs/5.png "AUU商城后台管理")
+![AUU商城后台管理](https://github.com/wligang/mall-app/blob/master/static/gitimgs/6.png "AUU商城后台管理")
+![AUU商城后台管理](https://github.com/wligang/mall-app/blob/master/static/gitimgs/7.png "AUU商城后台管理")
+![AUU商城后台管理](https://github.com/wligang/mall-app/blob/master/static/gitimgs/8.png "AUU商城后台管理")
+![AUU商城后台管理](https://github.com/wligang/mall-app/blob/master/static/gitimgs/9.png "AUU商城后台管理")
+![AUU商城后台管理](https://github.com/wligang/mall-app/blob/master/static/gitimgs/10.png "AUU商城后台管理")
+![AUU商城后台管理](https://github.com/wligang/mall-app/blob/master/static/gitimgs/11.png "AUU商城后台管理")
+![AUU商城后台管理](https://github.com/wligang/mall-app/blob/master/static/gitimgs/12.png "AUU商城后台管理")
 
  鉴于维护成本问题，本次先开源微信小程序的代码，希望能和大家一起分享学习。
 
