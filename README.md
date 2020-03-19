@@ -16,7 +16,10 @@
 
 
 
-## 附属项目后台管理
+## 附属
+### 项目后台管理
+    大概介绍一下后台，我们的后台采用的是spring cloud架构，阿里巴巴内部nacos注册体系，强大的性能和优异的扩展能力使得我在这个项目的时候把更多的关注点只需放在商城业务线上。多用户体系和系统账号体系以及多租户等架构经过多次优化都趋于完美（不谦虚），除了可以构建自己文件服务minIO外还整合阿里云OSS,七牛OSS等等，同时支持QQ、微信开发平台，头条开发平台以及支付宝等等向程序平台。我们的架构除了做商城等互联网应用外，还可以扩展为传统行业软件架构，经过几个政务软件和行业软件的整合过程吸取的经验，我们的平台基本可以无缝平移和跃迁。下面是商城部分后端效果图，简介明了。
+    当然我们本次关注点还是前端开源，如有对我们后台管理系统有兴趣的同学，可以通过上面微信我相互讨论。
 ![AUU商城后台管理](https://github.com/wligang/mall-app/blob/master/static/gitimgs/1.png "AUU商城后台管理")
 ![AUU商城后台管理](https://github.com/wligang/mall-app/blob/master/static/gitimgs/2.png "AUU商城后台管理")
 ![AUU商城后台管理](https://github.com/wligang/mall-app/blob/master/static/gitimgs/3.png "AUU商城后台管理")
