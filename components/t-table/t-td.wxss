@@ -1,0 +1,1 @@
+.t-td{-webkit-box-flex:1;-webkit-flex:1;flex:1;display:-webkit-box;display:-webkit-flex;display:flex;-webkit-box-align:center;-webkit-align-items:center;align-items:center;width:100%;padding:14rpx 0 14rpx 10rpx;border-top:1px #f2f2f2 solid;text-align:center;color:#555;font-size:28rpx}.t-td:first-child{padding-left:24rpx}

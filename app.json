@@ -16,7 +16,7 @@
     "pages/user/order_list/order_steps",
     "pages/user/order_list/comments",
     "pages/user/setting/setting",
-    "pages/mall/about",
+    "pages/user/mall/about",
     "pages/user/myQR/myQR",
     "pages/msg/msg",
     "pages/msg/chat/index",
@@ -28,7 +28,18 @@
     "pages/pay/payment/payment",
     "pages/pay/success/success",
     "pages/goods/ratings/ratings",
-    "pages/user/integral/integral_list"
+    "pages/user/integral/integral_list",
+    "pages/tabBar/website/auu/website",
+    "pages/tabBar/website/video",
+    "pages/tabBar/website/auu/recruitment",
+    "pages/tabBar/website/auu/postion",
+    "pages/user/order_list/order_detail",
+    "pages/user/manager/product/product",
+    "pages/user/manager/product/specification",
+    "pages/user/manager/product/editdetail",
+    "pages/user/manager/product/edittext",
+    "pages/user/manager/orders/orders",
+    "pages/user/live/live_home"
   ],
   "subPackages": [],
   "window": {
@@ -41,21 +52,27 @@
   },
   "tabBar": {
     "color": "#333333",
-    "selectedColor": "#f06c7a",
+    "selectedColor": "#4CD964",
     "borderStyle": "black",
     "backgroundColor": "#ffffff",
     "list": [
       {
+        "pagePath": "pages/tabBar/website/auu/website",
+        "iconPath": "static/img/tabBar/website.png",
+        "selectedIconPath": "static/img/tabBar/website-on.png",
+        "text": "官网"
+      },
+      {
         "pagePath": "pages/tabBar/home/home",
-        "iconPath": "static/img/tabBar/home.png",
-        "selectedIconPath": "static/img/tabBar/home-on.png",
-        "text": "首页"
+        "iconPath": "static/img/tabBar/shop.png",
+        "selectedIconPath": "static/img/tabBar/shop-on.png",
+        "text": "商城"
       },
       {
         "pagePath": "pages/tabBar/category/category",
         "iconPath": "static/img/tabBar/category.png",
         "selectedIconPath": "static/img/tabBar/category-on.png",
-        "text": "分类"
+        "text": "品类"
       },
       {
         "pagePath": "pages/tabBar/cart/cart",
@@ -65,9 +82,10 @@
       },
       {
         "pagePath": "pages/tabBar/user/user",
-        "iconPath": "static/img/tabBar/user.png",
-        "selectedIconPath": "static/img/tabBar/user-on.png",
-        "text": "我的"
+        "iconPath": "static/img/tabBar/users.png",
+        "selectedIconPath": "static/img/tabBar/users-on.png",
+        "text": "我的",
+        "splitLine": false
       }
     ]
   },
@@ -76,6 +94,12 @@
       "desc": "位置信息将用于为您提供更加优质的服务"
     }
   },
-  "usingComponents": {},
-  "sitemapLocation": "sitemap.json"
+  "usingComponents": {}
+  ,
+  "plugins": {
+    "live-player-plugin": {
+      "version": "1.0.14",
+      "provider": "wx2b03c6e691cd7370"
+    }
+  }
 }

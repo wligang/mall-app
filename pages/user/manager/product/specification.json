@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "规格与售价",
+  "backgroundColor": "#f4f4f4",
+  "usingComponents": {
+    "t-table": "/components/t-table/t-table",
+    "t-tr": "/components/t-table/t-tr",
+    "t-th": "/components/t-table/t-th",
+    "t-td": "/components/t-table/t-td"
+  }
+}

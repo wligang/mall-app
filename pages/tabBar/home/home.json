@@ -1,12 +1,11 @@
 {
-  "navigationBarTitleText": "AUU旗舰店",
-  "navigationBarBackgroundColor": "#f06c7a",
-  "backgroundTextStyle": "light",
-  "backgroundColorTop": "#f06c7a",
-  "navigationBarTextStyle": "white",
+  "navigationStyle": "custom",
   "enablePullDownRefresh": true,
   "onReachBottomDistance": 50,
   "usingComponents": {
-    "uni-notice-bar": "/components/uni-notice-bar/uni-notice-bar"
+    "uni-nav-bar": "/components/uni-nav-bar/uni-nav-bar",
+    "uni-notice-bar": "/components/uni-notice-bar/uni-notice-bar",
+    "uni-popup": "/components/uni-popup/uni-popup",
+    "uni-icons": "/components/uni-icons/uni-icons"
   }
 }

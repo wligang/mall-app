@@ -1,0 +1,1 @@
+page{width:100%;min-height:100%;display:-webkit-box;display:-webkit-flex;display:flex}.page{-webkit-box-flex:1;-webkit-flex:1;flex:1;width:750rpx}.swiper{-webkit-box-flex:1;-webkit-flex:1;flex:1;background-color:#007aff}.swiper-item{-webkit-box-flex:1;-webkit-flex:1;flex:1}.video{-webkit-box-flex:1;-webkit-flex:1;flex:1;width:100%}

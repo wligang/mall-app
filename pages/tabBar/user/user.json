@@ -1,8 +1,9 @@
 {
+  "navigationStyle": "custom",
   "enablePullDownRefresh": true,
-  "backgroundTextStyle": "light",
-  "navigationBarBackgroundColor": "#f06c7a",
-  "backgroundColorTop": "#f06c7a",
-  "navigationBarTextStyle": "white",
-  "usingComponents": {}
+  "onReachBottomDistance": 50,
+  "usingComponents": {
+    "uni-nav-bar": "/components/uni-nav-bar/uni-nav-bar",
+    "uni-icons": "/components/uni-icons/uni-icons"
+  }
 }

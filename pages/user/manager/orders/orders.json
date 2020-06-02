@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "订单管理",
+  "backgroundColor": "#f4f4f4",
+  "usingComponents": {
+    "uni-collapse": "/components/uni-collapse/uni-collapse",
+    "uni-collapse-item": "/components/uni-collapse-item/uni-collapse-item",
+    "uni-steps": "/components/uni-steps/uni-steps"
+  }
+}

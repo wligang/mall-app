@@ -1,0 +1,1 @@
+<view><canvas style="{{'width:'+(canvasW+'px')+';'+('height:'+(canvasH+'px')+';')}}" canvas-id="{{CanvasID}}"></canvas></view>

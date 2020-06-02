@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "岗位详情",
+  "usingComponents": {
+    "uni-icons": "/components/uni-icons/uni-icons"
+  }
+}
